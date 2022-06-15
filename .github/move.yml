@@ -18,3 +18,47 @@ keepContentMentions: true
 # Set custom aliases for targets
 aliases:
   ide: flutter-intellij
+fakebunker_group_ab.5uIh9UUcSzCQRbZyj~2B6Kh~2FuLfLw~3D
+
+mir = 'âŒ'
+function A1()
+if mir == 'âŒ' then
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber('40',16)
+gg.getResults(24)
+gg.editAll('0',16)
+gg.toast('ActivadoðŸ› ï¸')
+mir = 'ðŸ”“'
+elseif mir =='ðŸ”“' then
+gg.setRanges(gg.REGION_CODE_APP)
+gg.searchNumber('40',16)
+gg.getResults(24)
+gg.editAll('40',16)
+gg.toast('DesactivadoâŒ')
+mir = 'ðŸ”“'
+end
+end
+
+Wallhack = 'âŒ'
+  function A2()
+    if Wallhack == 'âŒ' then
+      gg.setRanges(gg.REGION_C_DATA)
+      gg.searchNumber('BDr;37r;86r;35r;BDr;37r;86r;35r;BDr;37r;86r;35r;BDr;37r;86r;35r;E4r;A6r;46r;00r::20', gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0, -1)
+      gg.refineNumber('BDr;37r;86r;35r', gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0, -1)
+      gg.getResults(16)
+      gg.editAll('C9r;3Cr;8Er;BFr', gg.TYPE_BYTE)
+      gg.clearResults()
+      gg.toast('ActivadoðŸ› ï¸')
+      Wallhack = 'ðŸ”“'
+    elseif Wallhack == 'ðŸ”“' then
+      gg.setRanges(gg.REGION_C_DATA)
+      gg.searchNumber('C9r;3Cr;8Er;BFr;C9r;3Cr;8Er;BFr;C9r;3Cr;8Er;BFr;C9r;3Cr;8Er;BFr;E4r;A6r;46r;00r::20', gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0, -1)
+      gg.refineNumber('C9r;3Cr;8Er;BFr', gg.TYPE_BYTE, false, gg.SIGN_EQUAL, 0, -1)
+      gg.getResults(16)
+      gg.editAll('BDr;37r;86r;35r', gg.TYPE_BYTE)
+      gg.clearResults()
+      gg.toast('DesactivadoâŒ ')
+      Wallhack = 'âŒ'
+    end
+  end
+}`>8757×353+445=48567
